@@ -22,5 +22,7 @@ a {
     background-repeat:no-repeat;
     -webkit-transform-origin: 50% 50%;
     -webkit-transform: translate(50px, 50px) rotate(6deg) scale(1.2) skew(10deg, 0deg);
+    -ms-transform-origin: 50% 50%;
+    -ms-transform: translate(50px, 50px) rotate(6deg) scale(1.2) skew(10deg, 0deg);
 }
 
